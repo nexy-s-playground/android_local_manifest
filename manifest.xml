@@ -3,13 +3,6 @@
   <!-- Remotes -->
   <remote name="me" fetch="https://github.com/" />
   
-  <!-- Device Tree -->
-  <project
-      name="nexy-s-playground/android_device_xiaomi_spes"
-      path="device/xiaomi/spes"
-      revision="risingOS-15"
-      remote="github" />
-
   <!-- Kernel -->
   <project
       name="knyprjkt/android_device_xiaomi_spes-kernel"
