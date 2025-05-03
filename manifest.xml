@@ -5,10 +5,10 @@
   
   <!-- Kernel -->
   <project
-      name="knyprjkt/android_device_xiaomi_spes-kernel"
-      path="device/xiaomi/spes-kernel"
+      name="spes-development/kernel_xiaomi_sm6225"
+      path="kernel/xiaomi/spes"
       remote="me"
-      revision="fifteen" />
+      revision="15.0" />
 
   <!-- Vendor Blobs -->
   <project
