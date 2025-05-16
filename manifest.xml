@@ -2,7 +2,8 @@
 <manifest>
   <!-- Remotes -->
   <remote name="me" fetch="https://github.com/" />
-  
+  <remote name="her" fetch="https://gitlab.com" />
+
   <!-- Kernel -->
   <project
       name="spes-development/kernel_xiaomi_sm6225"
@@ -30,4 +31,11 @@
       path="hardware/samsung-ext/interfaces"
       remote="me"
       revision="lineage-22" />
+
+  <!-- MIUI Camera -->
+  <project
+      name="ItzDFPlayer/vendor_xiaomi_miuicamera"
+      path="vendor/xiaomi/miuicamera"
+      remote="her"
+      revision="leica-5.0" />
 </manifest>
