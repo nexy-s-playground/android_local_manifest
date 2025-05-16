@@ -23,4 +23,11 @@
       path="hardware/xiaomi"
       revision="fifteen"
       remote="me" />
+
+  <!-- Debugging Tools -->
+  <project
+      name="spes-development/hardware_samsung-extra_interfaces"
+      path="hardware/samsung-ext/interfaces"
+      remote="me"
+      revision="lineage-22" />
 </manifest>
