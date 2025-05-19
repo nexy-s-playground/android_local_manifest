@@ -13,7 +13,7 @@
 
   <!-- Vendor Blobs -->
   <project
-      name="knyprjkt/android_vendor_xiaomi_spes"
+      name="nexy-s-playground/android_vendor_xiaomi_spes"
       path="vendor/xiaomi/spes"
       remote="me"
       revision="fifteen" />
