@@ -9,7 +9,7 @@
       name="knyprjkt/android_device_xiaomi_spes-kernel"
       path="device/xiaomi/spes-kernel"
       remote="me"
-      revision="fifteen" />
+      revision="sixteen" />
 
   <!-- Vendor Blobs -->
   <project
@@ -22,7 +22,7 @@
   <project
       name="knyprjkt/android_hardware_xiaomi"
       path="hardware/xiaomi"
-      revision="fifteen"
+      revision="sixteen"
       remote="me" />
 
   <!-- Debugging Tools -->
@@ -44,5 +44,5 @@
       name="angelomds42/packages_apps_XiaomiParts"
       path="packages/apps/XiaomiParts"
       remote="me"
-      revision="fifteen" />
+      revision="sixteen" />
 </manifest>
