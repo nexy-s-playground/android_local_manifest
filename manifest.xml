@@ -25,20 +25,6 @@
       revision="sixteen"
       remote="me" />
 
-  <!-- Debugging Tools -->
-  <project
-      name="spes-development/hardware_samsung-extra_interfaces"
-      path="hardware/samsung-ext/interfaces"
-      remote="me"
-      revision="lineage-22" />
-
-  <!-- MIUI Camera -->
-  <project
-      name="ItzDFPlayer/vendor_xiaomi_miuicamera"
-      path="vendor/xiaomi/miuicamera"
-      remote="her"
-      revision="leica-5.0" />
-
   <!-- XiaomiParts -->
   <project
       name="angelomds42/packages_apps_XiaomiParts"
