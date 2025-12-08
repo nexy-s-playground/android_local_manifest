@@ -4,6 +4,13 @@
   <remote name="me" fetch="https://github.com/" />
   <remote name="her" fetch="https://gitlab.com" />
 
+  <!-- Device Tree -->
+  <project
+      name="nexy-s-playground/android_device_xiaomi_spes"
+      path="device/xiaomi/spes"
+      remote="me"
+      revision="axionaosp" />
+
   <!-- Kernel -->
   <project
       name="knyprjkt/android_device_xiaomi_spes-kernel"
