@@ -13,7 +13,7 @@
 
   <!-- Kernel -->
   <project
-      name="knyprjkt/android_device_xiaomi_spes-kernel"
+      name="knyplaygrnd/android_device_xiaomi_spes-kernel"
       path="device/xiaomi/spes-kernel"
       remote="me"
       revision="sixteen" />
@@ -27,7 +27,7 @@
 
     <!-- Hardware ximi -->
   <project
-      name="knyprjkt/android_hardware_xiaomi"
+      name="knyplaygrnd/android_hardware_xiaomi"
       path="hardware/xiaomi"
       revision="sixteen"
       remote="me" />
