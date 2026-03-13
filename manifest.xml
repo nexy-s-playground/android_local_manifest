@@ -20,22 +20,22 @@
 
   <!-- Vendor Blobs -->
   <project
-      name="nexy-s-playground/android_vendor_xiaomi_spes"
+      name="knyplaygrnd/android_vendor_xiaomi_spes"
       path="vendor/xiaomi/spes"
       remote="me"
-      revision="fifteen" />
+      revision="sixteen" />
 
     <!-- Hardware ximi -->
   <project
-      name="knyplaygrnd/android_hardware_xiaomi"
+      name="PixelOS-AOSP/android_hardware_xiaomi"
       path="hardware/xiaomi"
-      revision="sixteen"
+      revision="sixteen-qpr2"
       remote="me" />
 
   <!-- XiaomiParts -->
   <project
-      name="nexy-s-playground/packages_apps_XiaomiParts"
+      name="angelomds42/packages_apps_XiaomiParts"
       path="packages/apps/XiaomiParts"
       remote="me"
-      revision="16.1" />
+      revision="sixteen" />
 </manifest>
