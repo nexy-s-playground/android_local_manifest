@@ -16,14 +16,14 @@
       name="knyplaygrnd/android_device_xiaomi_spes-kernel"
       path="device/xiaomi/spes-kernel"
       remote="me"
-      revision="sixteen" />
+      revision="sixteen-qpr2" />
 
   <!-- Vendor Blobs -->
   <project
       name="knyplaygrnd/android_vendor_xiaomi_spes"
       path="vendor/xiaomi/spes"
       remote="me"
-      revision="sixteen" />
+      revision="sixteen-qpr2" />
 
     <!-- Hardware ximi -->
   <project
@@ -37,5 +37,5 @@
       name="angelomds42/packages_apps_XiaomiParts"
       path="packages/apps/XiaomiParts"
       remote="me"
-      revision="sixteen" />
+      revision="sixteen-qpr2" />
 </manifest>
