@@ -34,7 +34,7 @@
 
   <!-- XiaomiParts -->
   <project
-      name="angelomds42/packages_apps_XiaomiParts"
+      name="nexy-s-playground/packages_apps_XiaomiParts"
       path="packages/apps/XiaomiParts"
       remote="me"
       revision="sixteen-qpr2" />
