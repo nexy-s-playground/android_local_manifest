@@ -5,6 +5,6 @@
 - Clone this repository in .repo/local_manifests and re-sync again
 
 ```
-git clone https://github.com/nexy-s-playground/android_local_manifest -b knyprjkt-b .repo/local_manifests/
+git clone https://github.com/nexy-s-playground/android_local_manifest -b pixelos-manifest .repo/local_manifests/
 ```
 

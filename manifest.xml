@@ -9,7 +9,7 @@
       name="nexy-s-playground/android_device_xiaomi_spes"
       path="device/xiaomi/spes"
       remote="me"
-      revision="axion" />
+      revision="PixelOS-Personal" />
 
   <!-- Kernel -->
   <project
